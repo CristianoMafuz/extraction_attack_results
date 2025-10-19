@@ -1,0 +1,85 @@
+[
+  {
+    "id": 22,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " de ticlopidina 250mg"
+      ]
+    ]
+  },
+  {
+    "id": 97,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " Paciente com quadro clínico de insuficiência cardí"
+      ]
+    ]
+  },
+  {
+    "id": 159,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 541,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 579,
+    "matches_above_10_tokens": [
+      [
+        12,
+        ", hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 588,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 685,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "ALIZAÇÃO DE TRANSPLAN"
+      ],
+      [
+        12,
+        " REALIZAÇÃO DE TRANSPLAN"
+      ],
+      [
+        12,
+        " REALIZAÇÃO DE TRANSPLAN"
+      ],
+      [
+        12,
+        " REALIZAÇÃO DE TRANSPLAN"
+      ],
+      [
+        12,
+        " REALIZAÇÃO DE TRANSPLAN"
+      ],
+      [
+        12,
+        " REALIZAÇÃO DE TRANSPLAN"
+      ]
+    ]
+  }
+]

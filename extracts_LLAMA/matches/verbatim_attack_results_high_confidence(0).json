@@ -1,0 +1,299 @@
+[
+  {
+    "id": 2,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " PACIENTE COM DIAGNÓSTICO"
+      ],
+      [
+        12,
+        " PACIENTE COM DIAGNÓSTICO"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 250mg 12/12"
+      ],
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 100,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 102,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " AGITAÇÃO PSICOMOTORA"
+      ]
+    ]
+  },
+  {
+    "id": 137,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 144,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ],
+      [
+        11,
+        " NÍVEL DE CONSCIÊNCIA"
+      ]
+    ]
+  },
+  {
+    "id": 165,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 234,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Atorvastatina 40mg "
+      ]
+    ]
+  },
+  {
+    "id": 298,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " 120/80, 130/"
+      ]
+    ]
+  },
+  {
+    "id": 338,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 587,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Propranolol 40 mg "
+      ]
+    ]
+  },
+  {
+    "id": 656,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 20mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 716,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "iclopidina 250mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 739,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Diagnóstico de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 761,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "bamazepina 200mg "
+      ]
+    ]
+  },
+  {
+    "id": 789,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "clorotiazida 25mg "
+      ],
+      [
+        12,
+        " Carvedilol 12,5mg 1"
+      ],
+      [
+        11,
+        "acetamol 500mg 2"
+      ],
+      [
+        11,
+        " Atorvastatina 20mg "
+      ]
+    ]
+  }
+]

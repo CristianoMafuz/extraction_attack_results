@@ -1,0 +1,136 @@
+[
+  {
+    "id": 3,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Ticlopidina 250mg "
+      ]
+    ]
+  },
+  {
+    "id": 355,
+    "matches_above_10_tokens": [
+      [
+        12,
+        ", digoxina 0,25mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 361,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ],
+      [
+        13,
+        " - Ticlopidina 250mg 1"
+      ],
+      [
+        11,
+        " - Clopidogrel 75mg "
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 373,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "Clopidogrel 75mg 1"
+      ],
+      [
+        11,
+        "Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 554,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 10mg 12/12h"
+      ]
+    ]
+  },
+  {
+    "id": 577,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 688,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ],
+      [
+        13,
+        " Hidroclorotiazida 25 mg"
+      ],
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 716,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ],
+      [
+        11,
+        "vastatina 20mg 1x"
+      ],
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 759,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " CLOPIDOGREL 75MG. "
+      ],
+      [
+        14,
+        " CLOPIDOGREL 75MG. "
+      ]
+    ]
+  },
+  {
+    "id": 778,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  }
+]

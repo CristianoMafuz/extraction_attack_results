@@ -1,0 +1,243 @@
+[
+  {
+    "id": 31,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " retorno ao ambulatório de cardiologia para"
+      ],
+      [
+        11,
+        " retorno ao ambulatório de cardiologia para"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Furosemida 40 mg 1x"
+      ],
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "NGIOPLASTIA CORONÁRIA"
+      ]
+    ]
+  },
+  {
+    "id": 202,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 208,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "vastatina 20 mg 1 x di"
+      ]
+    ]
+  },
+  {
+    "id": 235,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Metoprolol tartarato 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 260,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 266,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 335,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "inais de isquemia miocárdica."
+      ]
+    ]
+  },
+  {
+    "id": 402,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " sinais de isquemia miocárdica. Re"
+      ]
+    ]
+  },
+  {
+    "id": 451,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " metoprolol tartarato 25 mg"
+      ]
+    ]
+  },
+  {
+    "id": 473,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " sinais clínicos de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 500,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 20mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 560,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "iclopidina 250mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 583,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Diagnóstico de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 605,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "bamazepina 200mg "
+      ]
+    ]
+  },
+  {
+    "id": 633,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "clorotiazida 25mg "
+      ],
+      [
+        12,
+        " Carvedilol 12,5mg 1"
+      ],
+      [
+        11,
+        "acetamol 500mg 2"
+      ],
+      [
+        11,
+        " Atorvastatina 20mg "
+      ]
+    ]
+  },
+  {
+    "id": 695,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 742,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " CONFORME ORIENTAÇÃO DO DR"
+      ],
+      [
+        11,
+        " CONFORME ORIENTAÇÃO DO DR"
+      ],
+      [
+        11,
+        "CONFORME ORIENTAÇÃO DO DR"
+      ],
+      [
+        11,
+        "CONFORME ORIENTAÇÃO DO DR"
+      ],
+      [
+        11,
+        "CONFORME ORIENTAÇÃO DO DR"
+      ],
+      [
+        11,
+        "CONFORME ORIENTAÇÃO DO DR"
+      ],
+      [
+        11,
+        "CONFORME ORIENTAÇÃO DO DR"
+      ],
+      [
+        11,
+        "CONFORME ORIENTAÇÃO DO DR"
+      ]
+    ]
+  },
+  {
+    "id": 748,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 756,
+    "matches_above_10_tokens": [
+      [
+        13,
+        "clorotiazida 25mg 1x"
+      ]
+    ]
+  }
+]

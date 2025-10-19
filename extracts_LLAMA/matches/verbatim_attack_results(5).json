@@ -1,0 +1,163 @@
+[
+  {
+    "id": 11,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " metoprolol tartarato 150mg"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ],
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ],
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 81,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " - Ticlopidina 250mg "
+      ]
+    ]
+  },
+  {
+    "id": 104,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ", necessitando de ventilação mecânica"
+      ]
+    ]
+  },
+  {
+    "id": 153,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 261,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " PACIENTE COM DIAGNÓSTICO DE"
+      ]
+    ]
+  },
+  {
+    "id": 262,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 287,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 308,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 389,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " metoprolol tartarato 25 mg"
+      ]
+    ]
+  },
+  {
+    "id": 477,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " hidroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 579,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "meprazol 20 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 638,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Atorvastatina 20 mg"
+      ]
+    ]
+  },
+  {
+    "id": 684,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 40 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 718,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ", hipertrofia ventricular esquerda"
+      ]
+    ]
+  },
+  {
+    "id": 727,
+    "matches_above_10_tokens": [
+      [
+        19,
+        "ALIZAÇÃO DE ANGIOPLASTIA CORONÁRIA"
+      ]
+    ]
+  },
+  {
+    "id": 776,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " mg, enalapril 10 mg,"
+      ]
+    ]
+  }
+]

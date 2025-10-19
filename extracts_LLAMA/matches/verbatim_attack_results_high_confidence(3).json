@@ -1,0 +1,252 @@
+[
+  {
+    "id": 26,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " digoxina 0,25mg 1"
+      ],
+      [
+        12,
+        " carvedilol 6,25mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 78,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 95,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " ATENOLOL 100MG "
+      ]
+    ]
+  },
+  {
+    "id": 127,
+    "matches_above_10_tokens": [
+      [
+        16,
+        " com as seguintes medicações: 1) Ticlopidina"
+      ]
+    ]
+  },
+  {
+    "id": 143,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " paracetamol 500mg "
+      ]
+    ]
+  },
+  {
+    "id": 144,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 153,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "NGIOPLASTIA CORONÁRIA"
+      ],
+      [
+        11,
+        " ANGIOPLASTIA CORONARIA"
+      ]
+    ]
+  },
+  {
+    "id": 159,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 160,
+    "matches_above_10_tokens": [
+      [
+        13,
+        "idroclorotiazida 25mg "
+      ]
+    ]
+  },
+  {
+    "id": 189,
+    "matches_above_10_tokens": [
+      [
+        14,
+        "acetamol 500mg 2 comprimidos"
+      ]
+    ]
+  },
+  {
+    "id": 191,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 207,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " DESCONFORTO RESPIRATÓRIO"
+      ]
+    ]
+  },
+  {
+    "id": 223,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " em bom estado geral, com boa tolerância"
+      ]
+    ]
+  },
+  {
+    "id": 244,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 248,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 269,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "EDICAÇÕES PRESCRITAS"
+      ]
+    ]
+  },
+  {
+    "id": 278,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "ato 250mg 1x ao dia "
+      ]
+    ]
+  },
+  {
+    "id": 420,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 428,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 465,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " AGITAÇÃO PSICOMOTORA"
+      ]
+    ]
+  },
+  {
+    "id": 469,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Metoprolol tartarato 25mg "
+      ],
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 490,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " angioplastia com implante de stent em a"
+      ]
+    ]
+  },
+  {
+    "id": 629,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " ADMINISTRAÇÃO DA MEDICAÇÃO"
+      ]
+    ]
+  },
+  {
+    "id": 678,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 766,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " CONFORME PRESCRIÇÃO MÉDICA"
+      ]
+    ]
+  },
+  {
+    "id": 768,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 20mg 1"
+      ]
+    ]
+  }
+]

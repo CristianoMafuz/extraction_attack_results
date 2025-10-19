@@ -1,0 +1,104 @@
+[
+  {
+    "id": 2,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ],
+      [
+        11,
+        "lorotiazida 25 mg 1"
+      ],
+      [
+        13,
+        " Atorvastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 213,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " AVALIAÇÃO AMBULATORIAL"
+      ]
+    ]
+  },
+  {
+    "id": 278,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " digoxina 0,25mg 1"
+      ],
+      [
+        12,
+        " carvedilol 6,25mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 336,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " - Ticlopidina 250mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 359,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Clopidogrel 75mg "
+      ]
+    ]
+  },
+  {
+    "id": 444,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " PRESCRIÇÃO MÉDICA. "
+      ]
+    ]
+  },
+  {
+    "id": 538,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " AGITAÇÃO PSICOMOTORA,"
+      ]
+    ]
+  },
+  {
+    "id": 581,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Clopidogrel 75mg "
+      ]
+    ]
+  },
+  {
+    "id": 679,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " CLOPIDOGREL 75MG"
+      ]
+    ]
+  }
+]

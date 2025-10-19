@@ -1,0 +1,238 @@
+[
+  {
+    "id": 46,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " ticlopidina 250mg "
+      ],
+      [
+        11,
+        " ticlopidina 250mg "
+      ],
+      [
+        11,
+        " ticlopidina 250mg "
+      ],
+      [
+        11,
+        " ticlopidina 250mg "
+      ],
+      [
+        11,
+        " ticlopidina 250mg "
+      ],
+      [
+        11,
+        " ticlopidina 250mg "
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " DURAÇÃO MENOR QUE "
+      ],
+      [
+        11,
+        " DURAÇÃO MENOR QUE "
+      ],
+      [
+        11,
+        " DURAÇÃO MENOR QUE "
+      ],
+      [
+        11,
+        " DURAÇÃO MENOR QUE "
+      ],
+      [
+        11,
+        " DURAÇÃO MENOR QUE "
+      ],
+      [
+        11,
+        " DURAÇÃO MENOR QUE "
+      ],
+      [
+        11,
+        " DURAÇÃO MENOR QUE "
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Atenolol 50 mg 2x"
+      ],
+      [
+        13,
+        " Ticlopidina 250 mg 2x"
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "matches_above_10_tokens": [
+      [
+        15,
+        "OFIBRATO 100MG 1X/D"
+      ]
+    ]
+  },
+  {
+    "id": 85,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 104,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " ELETROCARDIOGRAFICA"
+      ],
+      [
+        12,
+        " ELETROCARDIOGRAFICA"
+      ],
+      [
+        12,
+        " ELETROCARDIOGRAFICA"
+      ],
+      [
+        12,
+        " ELETROCARDIOGRAFICA"
+      ],
+      [
+        12,
+        " ELETROCARDIOGRAFICA"
+      ],
+      [
+        12,
+        " ELETROCARDIOGRAFICA"
+      ]
+    ]
+  },
+  {
+    "id": 183,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " em 03/03/2006"
+      ],
+      [
+        11,
+        " em 03/03/2006"
+      ],
+      [
+        11,
+        " em 06/03/2006"
+      ]
+    ]
+  },
+  {
+    "id": 400,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " PACIENTE COM DIAGNÓSTICO DE"
+      ]
+    ]
+  },
+  {
+    "id": 501,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ],
+      [
+        11,
+        " PNEUMONIA BACTERIANA "
+      ]
+    ]
+  },
+  {
+    "id": 713,
+    "matches_above_10_tokens": [
+      [
+        15,
+        " Metoprolol 100mg 2x/dia "
+      ]
+    ]
+  },
+  {
+    "id": 721,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " carbamazepina 200mg"
+      ]
+    ]
+  },
+  {
+    "id": 746,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " enalapril 10 mg 12"
+      ]
+    ]
+  }
+]

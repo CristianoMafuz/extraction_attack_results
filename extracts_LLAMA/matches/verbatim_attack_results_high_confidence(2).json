@@ -1,0 +1,42 @@
+[
+  {
+    "id": 23,
+    "matches_above_10_tokens": [
+      [
+        16,
+        " TRATAMENTO PARA ESQUIZOFRENIA E"
+      ]
+    ]
+  },
+  {
+    "id": 74,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "ÇÃO RESPIRATÓRIA "
+      ]
+    ]
+  },
+  {
+    "id": 303,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ", hipertrofia ventricular esquerda"
+      ],
+      [
+        11,
+        ": - Clopidogrel 75mg"
+      ]
+    ]
+  },
+  {
+    "id": 746,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " Hidroclorotiazida 25mg"
+      ]
+    ]
+  }
+]

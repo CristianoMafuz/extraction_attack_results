@@ -1,0 +1,245 @@
+[
+  {
+    "id": 8,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Atorvastatina 40mg "
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " Hidroclorotiazida 25 mg"
+      ],
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ],
+      [
+        12,
+        " Omeprazol 20 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 73,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "O DE ATENOLOL 25 MG"
+      ],
+      [
+        11,
+        "O DE ATENOLOL 25 MG"
+      ]
+    ]
+  },
+  {
+    "id": 81,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "CONTINÊNCIA URINÁRIA"
+      ]
+    ]
+  },
+  {
+    "id": 88,
+    "matches_above_10_tokens": [
+      [
+        14,
+        "ÇÃO RESPIRATÓRIA AGUDA COM"
+      ]
+    ]
+  },
+  {
+    "id": 91,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "inais de isquemia miocárdica."
+      ]
+    ]
+  },
+  {
+    "id": 121,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " Hidroclorotiazida 25mg"
+      ],
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ],
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ],
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ],
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ],
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ],
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 131,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " Acinetobacter baumannii resistente a carbapen"
+      ]
+    ]
+  },
+  {
+    "id": 173,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " MEDICAÇÕES PRESCRITAS"
+      ]
+    ]
+  },
+  {
+    "id": 216,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " STAPHYLOCOCCUS AUREUS."
+      ]
+    ]
+  },
+  {
+    "id": 262,
+    "matches_above_10_tokens": [
+      [
+        13,
+        "MINISTRAÇÃO DA MEDICAÇÃO"
+      ]
+    ]
+  },
+  {
+    "id": 267,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 313,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " angioplastia com implante de stent em "
+      ]
+    ]
+  },
+  {
+    "id": 315,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 332,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " e doenças cardiovasculares. "
+      ]
+    ]
+  },
+  {
+    "id": 377,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "A A TRATAMENTO CLÍNICO"
+      ]
+    ]
+  },
+  {
+    "id": 543,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " sinais de isquemia miocárdica."
+      ]
+    ]
+  },
+  {
+    "id": 581,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 699,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "idroclorotiazida 25 mg"
+      ]
+    ]
+  },
+  {
+    "id": 738,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 739,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "16/09/2015: P"
+      ]
+    ]
+  },
+  {
+    "id": 740,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 760,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " sinais de isquemia miocárdica."
+      ]
+    ]
+  }
+]

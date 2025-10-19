@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "matches_above_10_tokens": [
+      [
+        14,
+        "O, FOI REALIZADA AVALIAÇÃO"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "LOPIDOGREL 75 MG"
+      ],
+      [
+        11,
+        "LOPIDOGREL 75 MG"
+      ]
+    ]
+  },
+  {
+    "id": 150,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " CLOPIDOGREL 75MG"
+      ],
+      [
+        11,
+        "LOPIDOGREL 75MG"
+      ],
+      [
+        12,
+        " CLOPIDOGREL 75MG"
+      ]
+    ]
+  },
+  {
+    "id": 311,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ]
+    ]
+  },
+  {
+    "id": 420,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 465,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ],
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 645,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "ioplastia coronariana com implante de stent"
+      ]
+    ]
+  },
+  {
+    "id": 657,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 300mg 12/12"
+      ],
+      [
+        12,
+        "ina 100mg 12/12"
+      ],
+      [
+        11,
+        " 300mg 12/12"
+      ],
+      [
+        12,
+        "ina 100mg 12/12"
+      ]
+    ]
+  },
+  {
+    "id": 691,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 742,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Ticlopidina 250mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 785,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Ticlopidina 250mg"
+      ]
+    ]
+  }
+]

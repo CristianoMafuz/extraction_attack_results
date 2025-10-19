@@ -1,0 +1,127 @@
+[
+  {
+    "id": 45,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " / Atorvastatina 40 mg"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " CARDIOPATIA ISQUÊMICA"
+      ]
+    ]
+  },
+  {
+    "id": 92,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " MEDICAÇÕES PRESCRITAS"
+      ]
+    ]
+  },
+  {
+    "id": 136,
+    "matches_above_10_tokens": [
+      [
+        13,
+        "ÇÃO PÓS-OPERATÓRIA."
+      ]
+    ]
+  },
+  {
+    "id": 138,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 163,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " CARDIOPATIA ISQUÊMICA"
+      ]
+    ]
+  },
+  {
+    "id": 204,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " amitriptilina 25 mg "
+      ]
+    ]
+  },
+  {
+    "id": 348,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Diagnóstico de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 386,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "SCRIÇÃO DE MEDICAMENTOS"
+      ]
+    ]
+  },
+  {
+    "id": 416,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 500mg 2 comprimidos "
+      ],
+      [
+        11,
+        " 500mg 2 comprimidos "
+      ]
+    ]
+  },
+  {
+    "id": 516,
+    "matches_above_10_tokens": [
+      [
+        12,
+        ", ACIDENTE VASCULAR CEREBRAL"
+      ],
+      [
+        12,
+        ", ACIDENTE VASCULAR CEREBRAL"
+      ]
+    ]
+  },
+  {
+    "id": 547,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " paracetamol 500mg "
+      ]
+    ]
+  },
+  {
+    "id": 551,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  }
+]

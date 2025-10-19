@@ -1,0 +1,160 @@
+[
+  {
+    "id": 37,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 134,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ", Atorvastatina 20mg"
+      ]
+    ]
+  },
+  {
+    "id": 150,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " amiodarona 200mg / dia"
+      ],
+      [
+        12,
+        " hidroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 168,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " antibioticoterapia por 7 dias"
+      ],
+      [
+        11,
+        " antibioticoterapia por 7 dias"
+      ]
+    ]
+  },
+  {
+    "id": 318,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Metoprolol tartarato 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 321,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 340,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " DE MEMBRO INFERIOR ESQUERDO"
+      ]
+    ]
+  },
+  {
+    "id": 430,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 439,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "FLAMAÇÃO CRÔNICA DE P"
+      ]
+    ]
+  },
+  {
+    "id": 507,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "OR STAPHYLOCOCCUS AUREUS."
+      ]
+    ]
+  },
+  {
+    "id": 519,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 590,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 682,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Atorvastatina 40 mg "
+      ],
+      [
+        13,
+        " hidroclorotiazida 25 mg "
+      ],
+      [
+        11,
+        " Atorvastatina 40 mg "
+      ],
+      [
+        13,
+        " hidroclorotiazida 25 mg "
+      ]
+    ]
+  },
+  {
+    "id": 707,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Ticlopidina 250mg 1"
+      ],
+      [
+        11,
+        " Atorvastatina 40mg "
+      ],
+      [
+        11,
+        "ironolactona 25mg 1"
+      ],
+      [
+        11,
+        "ina 50mg 1 comprimido "
+      ]
+    ]
+  }
+]

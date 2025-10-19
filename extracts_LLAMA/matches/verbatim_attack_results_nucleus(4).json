@@ -1,0 +1,276 @@
+[
+  {
+    "id": 11,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " PACIENTE COM DIAGNÓSTICO DE"
+      ]
+    ]
+  },
+  {
+    "id": 91,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 100MG 1X/DIA"
+      ],
+      [
+        14,
+        "LOPIDOGREL 75MG 1X"
+      ]
+    ]
+  },
+  {
+    "id": 97,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " de ticlopidina 250 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 107,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ],
+      [
+        11,
+        " Furosemida 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 114,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "lorotiazida 25 mg 1"
+      ],
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 155,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "ironolactona 25mg 1"
+      ],
+      [
+        11,
+        " Espironolactona 25mg "
+      ]
+    ]
+  },
+  {
+    "id": 170,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "/dia, clopidogrel 75mg"
+      ]
+    ]
+  },
+  {
+    "id": 185,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 225,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Clopidogrel 75 mg,"
+      ]
+    ]
+  },
+  {
+    "id": 232,
+    "matches_above_10_tokens": [
+      [
+        14,
+        ". PACIENTE COM CARDIOPATIA ISQ"
+      ]
+    ]
+  },
+  {
+    "id": 294,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ": Atenolol 50mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 334,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " CONSTIPAÇÃO CRÔNICA"
+      ]
+    ]
+  },
+  {
+    "id": 379,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ],
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ],
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ]
+    ]
+  },
+  {
+    "id": 399,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 426,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ],
+      [
+        11,
+        " STAPHYLOCOCCUS AUREUS."
+      ],
+      [
+        11,
+        " STAPHYLOCOCCUS AUREUS."
+      ],
+      [
+        11,
+        " STAPHYLOCOCCUS AUREUS."
+      ]
+    ]
+  },
+  {
+    "id": 501,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "orvastatina 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 517,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 584,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Carvedilol 12,5mg 1"
+      ],
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 634,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " CLOPIDOGREL 75MG 1"
+      ]
+    ]
+  },
+  {
+    "id": 636,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Omeprazol 20 mg "
+      ]
+    ]
+  },
+  {
+    "id": 659,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 661,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 676,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Metoprolol tartarato 25mg "
+      ]
+    ]
+  },
+  {
+    "id": 692,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 791,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " Hidroclorotiazida 25mg"
+      ]
+    ]
+  }
+]

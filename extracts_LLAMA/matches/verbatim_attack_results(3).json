@@ -1,0 +1,215 @@
+[
+  {
+    "id": 103,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ]
+    ]
+  },
+  {
+    "id": 128,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " AS MEDICAÇÕES PRESCRITAS"
+      ],
+      [
+        13,
+        " AS MEDICAÇÕES PRESCRITAS"
+      ]
+    ]
+  },
+  {
+    "id": 140,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 151,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ],
+      [
+        12,
+        "ina 100 mg 2x ao dia "
+      ],
+      [
+        12,
+        " Omeprazol 20 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 202,
+    "matches_above_10_tokens": [
+      [
+        12,
+        ", necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 216,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "agnóstico de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 227,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 236,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 244,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 248,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 252,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " AS MEDICAÇÕES PRESCRITAS"
+      ]
+    ]
+  },
+  {
+    "id": 314,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " Metformina 850mg 2x ao dia"
+      ]
+    ]
+  },
+  {
+    "id": 365,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "ÊNCIA RESPIRATÓRIA "
+      ]
+    ]
+  },
+  {
+    "id": 372,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " HEMORRAGIA GASTROINTESTINAL"
+      ]
+    ]
+  },
+  {
+    "id": 390,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 411,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " mg 1 cp 12/12 h"
+      ],
+      [
+        11,
+        " mg 1 cp 12/12 h"
+      ],
+      [
+        11,
+        " mg 1 cp 12/12 h"
+      ]
+    ]
+  },
+  {
+    "id": 522,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 557,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " PACIENTE NÃO DESEJA RE"
+      ]
+    ]
+  },
+  {
+    "id": 586,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " alta em bom estado geral, com boa tolerância a"
+      ]
+    ]
+  },
+  {
+    "id": 600,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " - Clopidogrel 75 mg, 1"
+      ],
+      [
+        11,
+        " Enalapril 10mg, 1"
+      ]
+    ]
+  },
+  {
+    "id": 752,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " PACIENTE COM DIAGNÓSTICO DE"
+      ]
+    ]
+  }
+]

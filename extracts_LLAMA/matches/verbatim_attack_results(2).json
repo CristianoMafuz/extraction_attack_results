@@ -1,0 +1,246 @@
+[
+  {
+    "id": 21,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 25mg 12/12 h"
+      ]
+    ]
+  },
+  {
+    "id": 75,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 134,
+    "matches_above_10_tokens": [
+      [
+        13,
+        "EVOLUÇÃO CLÍNICA APÓS"
+      ]
+    ]
+  },
+  {
+    "id": 146,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "PACIENTE COM DIAGNÓSTICO"
+      ]
+    ]
+  },
+  {
+    "id": 154,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 40 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 170,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 224,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 289,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " evolução clínica. Recomendações:"
+      ]
+    ]
+  },
+  {
+    "id": 304,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "acetamol 500mg 2"
+      ]
+    ]
+  },
+  {
+    "id": 311,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " digoxina 0,25mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 470,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 506,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " AGITAÇÃO PSICOMOTORA "
+      ]
+    ]
+  },
+  {
+    "id": 515,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " + KLEBSIELA PNEUMONIAE"
+      ],
+      [
+        11,
+        "KLEBSIELA PNEUMONIAE"
+      ]
+    ]
+  },
+  {
+    "id": 544,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "ina 300 mg 12/12"
+      ],
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ],
+      [
+        12,
+        "250 mg 12/12h "
+      ],
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ],
+      [
+        12,
+        "ril 10 mg 12/12h"
+      ],
+      [
+        12,
+        " Atorvastatina 40 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 549,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "ARA AVALIAÇÃO DE RISCO"
+      ]
+    ]
+  },
+  {
+    "id": 591,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "OS APÓS ADMINISTRAÇÃO DA"
+      ],
+      [
+        11,
+        "OS APÓS ADMINISTRAÇÃO DA"
+      ]
+    ]
+  },
+  {
+    "id": 594,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 617,
+    "matches_above_10_tokens": [
+      [
+        13,
+        "MINISTRAÇÃO DA MEDICAÇÃO"
+      ]
+    ]
+  },
+  {
+    "id": 633,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "ina 300 mg 12/12"
+      ]
+    ]
+  },
+  {
+    "id": 636,
+    "matches_above_10_tokens": [
+      [
+        14,
+        "ICIÊNCIA VENOSA CRÔNICA"
+      ]
+    ]
+  },
+  {
+    "id": 640,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 759,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 782,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "ril 10 mg 12/12"
+      ]
+    ]
+  }
+]

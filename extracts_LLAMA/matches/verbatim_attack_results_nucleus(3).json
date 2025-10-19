@@ -1,0 +1,358 @@
+[
+  {
+    "id": 28,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 74,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " sinais clínicos de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 104,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 105,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " - Ticlopidina 250mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 120,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Clopidogrel 75 mg, 1"
+      ]
+    ]
+  },
+  {
+    "id": 130,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ],
+      [
+        11,
+        " Paciente recebe alta em bom estado geral, sem"
+      ]
+    ]
+  },
+  {
+    "id": 145,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " metoprolol tartarato 25 mg"
+      ]
+    ]
+  },
+  {
+    "id": 173,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " DISFUNÇÃO VENTRICULAR"
+      ]
+    ]
+  },
+  {
+    "id": 251,
+    "matches_above_10_tokens": [
+      [
+        15,
+        " ADMINISTRAÇÃO DA MEDICAÇÃO A"
+      ],
+      [
+        15,
+        " ADMINISTRAÇÃO DA MEDICAÇÃO A"
+      ],
+      [
+        15,
+        " ADMINISTRAÇÃO DA MEDICAÇÃO A"
+      ],
+      [
+        15,
+        " ADMINISTRAÇÃO DA MEDICAÇÃO A"
+      ]
+    ]
+  },
+  {
+    "id": 252,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " ambulatorial e retorno à emergência se necessário."
+      ]
+    ]
+  },
+  {
+    "id": 255,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 275,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ", carvedilol 6,25mg"
+      ]
+    ]
+  },
+  {
+    "id": 296,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg - 1"
+      ]
+    ]
+  },
+  {
+    "id": 312,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ", sem sinais ou sintomas de isquemia"
+      ]
+    ]
+  },
+  {
+    "id": 318,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 385,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais clínicos de hipocalcemia."
+      ]
+    ]
+  },
+  {
+    "id": 413,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 430,
+    "matches_above_10_tokens": [
+      [
+        12,
+        ", hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 452,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 454,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " sinais clínicos de insuficiência cardíaca."
+      ]
+    ]
+  },
+  {
+    "id": 467,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 489,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Ticlopidina 250mg"
+      ]
+    ]
+  },
+  {
+    "id": 530,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " metoprolol tartarato 150mg"
+      ],
+      [
+        12,
+        " metoprolol tartarato 150mg"
+      ],
+      [
+        12,
+        " metoprolol tartarato 150mg"
+      ],
+      [
+        12,
+        " metoprolol tartarato 150mg"
+      ]
+    ]
+  },
+  {
+    "id": 551,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "inais clínicos de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 659,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "ENCIA CARDIACA CONGESTIVA"
+      ]
+    ]
+  },
+  {
+    "id": 688,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " alta em bom estado geral, com boa tolerância"
+      ]
+    ]
+  },
+  {
+    "id": 721,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " paracetamol 500mg "
+      ],
+      [
+        11,
+        " paracetamol 500mg "
+      ],
+      [
+        11,
+        " paracetamol 500mg "
+      ]
+    ]
+  },
+  {
+    "id": 759,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Atorvastatina 40mg "
+      ]
+    ]
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "id": 13,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "iclopidina 250mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Ticlopidina 250 mg"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " hidroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "ta em bom estado geral, com boa tolerância"
+      ]
+    ]
+  },
+  {
+    "id": 85,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Omeprazol 20 mg "
+      ],
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 91,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Atorvastatina 40mg "
+      ]
+    ]
+  },
+  {
+    "id": 95,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 20/20 20/20"
+      ]
+    ]
+  },
+  {
+    "id": 101,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Metoprolol tartarato 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 111,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "00mg 12/12h."
+      ],
+      [
+        12,
+        "ona 25mg 12/12h"
+      ],
+      [
+        11,
+        " Atorvastatina 40mg "
+      ],
+      [
+        11,
+        " 40mg 12/12h"
+      ]
+    ]
+  },
+  {
+    "id": 137,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Clopidogrel 75mg "
+      ],
+      [
+        12,
+        ": - Clopidogrel 75mg "
+      ]
+    ]
+  },
+  {
+    "id": 185,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "Omeprazol 20 mg 1x"
+      ],
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 203,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 213,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ],
+      [
+        11,
+        " Atorvastatina 20 mg "
+      ],
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ],
+      [
+        11,
+        " Atorvastatina 20 mg "
+      ]
+    ]
+  },
+  {
+    "id": 225,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " METFORMINA 500MG "
+      ]
+    ]
+  },
+  {
+    "id": 318,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " AGITAÇÃO PSICOMOTORA"
+      ]
+    ]
+  },
+  {
+    "id": 355,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Atorvastatina 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 429,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "- Clopidogrel 75mg "
+      ]
+    ]
+  },
+  {
+    "id": 439,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ],
+      [
+        11,
+        " Atorvastatina 40mg "
+      ]
+    ]
+  },
+  {
+    "id": 515,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 643,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " Clopidogrel 75 mg, 1"
+      ]
+    ]
+  },
+  {
+    "id": 688,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " AGITAÇÃO PSICOMOTORA,"
+      ]
+    ]
+  },
+  {
+    "id": 731,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " - Clopidogrel 75mg "
+      ]
+    ]
+  }
+]

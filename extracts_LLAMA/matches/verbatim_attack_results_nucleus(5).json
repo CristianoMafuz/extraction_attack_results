@@ -1,0 +1,236 @@
+[
+  {
+    "id": 11,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " atorvastatina 40mg,"
+      ],
+      [
+        13,
+        "25mg, enalapril 10mg"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 77,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ],
+      [
+        11,
+        " PACIENTE COM HISTÓRIA DE"
+      ]
+    ]
+  },
+  {
+    "id": 106,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " sinais clínicos de insuficiência cardíaca"
+      ]
+    ]
+  },
+  {
+    "id": 119,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 131,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 172,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 206,
+    "matches_above_10_tokens": [
+      [
+        13,
+        ", necessitando de ventilação mecânica. Ap"
+      ]
+    ]
+  },
+  {
+    "id": 231,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "oprolol tartarato 25 mg "
+      ],
+      [
+        11,
+        "iclopidina 250 mg 1"
+      ],
+      [
+        12,
+        ", carvedilol 6,25 mg "
+      ]
+    ]
+  },
+  {
+    "id": 275,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " em bom estado geral, com boa tolerância"
+      ]
+    ]
+  },
+  {
+    "id": 334,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 377,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "mg, furosemida 40mg"
+      ]
+    ]
+  },
+  {
+    "id": 380,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " - Clopidogrel 75 mg, 1"
+      ]
+    ]
+  },
+  {
+    "id": 391,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ". Recebe alta em bom estado geral, com bo"
+      ],
+      [
+        11,
+        ". Recebe alta em bom estado geral, com bo"
+      ],
+      [
+        11,
+        ". Recebe alta em bom estado geral, com bo"
+      ],
+      [
+        11,
+        ". Recebe alta em bom estado geral, com bo"
+      ],
+      [
+        11,
+        ". Recebe alta em bom estado geral, com bo"
+      ],
+      [
+        11,
+        ". Recebe alta em bom estado geral, com bo"
+      ]
+    ]
+  },
+  {
+    "id": 479,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " necessitando de ventilação mecânica."
+      ]
+    ]
+  },
+  {
+    "id": 521,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 568,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " INFARTO AGUDO DO MIOCÁRDIO"
+      ]
+    ]
+  },
+  {
+    "id": 634,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 663,
+    "matches_above_10_tokens": [
+      [
+        18,
+        " Paciente submetido a angioplastia coronariana com implante de stent"
+      ]
+    ]
+  },
+  {
+    "id": 714,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "ACIENTE COM DIAGNÓSTICO DE"
+      ]
+    ]
+  },
+  {
+    "id": 748,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Clopidogrel 75 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 771,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " ou sinais clínicos de insuficiência"
+      ]
+    ]
+  }
+]

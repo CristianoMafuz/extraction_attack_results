@@ -1,0 +1,358 @@
+[
+  {
+    "id": 4,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " carvedilol 6,25mg 1"
+      ],
+      [
+        11,
+        " digoxina 0,25mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20 mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "inais clínicos de insuficiência cardíaca"
+      ],
+      [
+        12,
+        " Ticlopidina 250mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 84,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " sinais de isquemia miocárdica"
+      ]
+    ]
+  },
+  {
+    "id": 151,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "idroclorotiazida 25mg"
+      ],
+      [
+        13,
+        " Hidroclorotiazida 25mg"
+      ]
+    ]
+  },
+  {
+    "id": 163,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " hipertrofia ventricular esquerda, "
+      ]
+    ]
+  },
+  {
+    "id": 202,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " com quadro clínico de insuficiência cardí"
+      ]
+    ]
+  },
+  {
+    "id": 208,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "O NO SERVIÇO DE NEFROLOGIA"
+      ]
+    ]
+  },
+  {
+    "id": 209,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " 04/11/2006."
+      ]
+    ]
+  },
+  {
+    "id": 228,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "50 mg 12/12 horas"
+      ],
+      [
+        12,
+        "250 mg 12/12 horas"
+      ],
+      [
+        11,
+        " Atorvastatina 20 mg "
+      ],
+      [
+        11,
+        " 300 mg 12/12"
+      ]
+    ]
+  },
+  {
+    "id": 245,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 278,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " hipertrofia ventricular esquerda,"
+      ]
+    ]
+  },
+  {
+    "id": 436,
+    "matches_above_10_tokens": [
+      [
+        12,
+        "RESCRIÇÃO DE MEDICAMENTOS"
+      ]
+    ]
+  },
+  {
+    "id": 451,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " MEDICAÇÕES PRESCRITAS"
+      ],
+      [
+        11,
+        " EVOLUÇÃO CLÍNICA"
+      ]
+    ]
+  },
+  {
+    "id": 507,
+    "matches_above_10_tokens": [
+      [
+        15,
+        ". MEDICAÇÃO DE USO CONTINUO"
+      ],
+      [
+        15,
+        ". MEDICAÇÃO DE USO CONTINUO"
+      ],
+      [
+        15,
+        ". MEDICAÇÃO DE USO CONTINUO"
+      ],
+      [
+        15,
+        ". MEDICAÇÃO DE USO CONTINUO"
+      ],
+      [
+        15,
+        ". MEDICAÇÃO DE USO CONTINUO"
+      ],
+      [
+        15,
+        ". MEDICAÇÃO DE USO CONTINUO"
+      ]
+    ]
+  },
+  {
+    "id": 577,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 20mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 580,
+    "matches_above_10_tokens": [
+      [
+        11,
+        "vastatina 40 mg 1x"
+      ]
+    ]
+  },
+  {
+    "id": 599,
+    "matches_above_10_tokens": [
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ],
+      [
+        12,
+        ". MEDICAÇÃO DE USO CONT"
+      ]
+    ]
+  },
+  {
+    "id": 601,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " Omeprazol 20mg 1"
+      ]
+    ]
+  },
+  {
+    "id": 609,
+    "matches_above_10_tokens": [
+      [
+        11,
+        " paracetamol 500mg "
+      ],
+      [
+        11,
+        " paracetamol 500mg "
+      ],
+      [
+        11,
+        " paracetamol 500mg "
+      ],
+      [
+        11,
+        " paracetamol 500mg "
+      ]
+    ]
+  },
+  {
+    "id": 640,
+    "matches_above_10_tokens": [
+      [
+        11,
+        ", carvedilol 6,25 mg"
+      ]
+    ]
+  },
+  {
+    "id": 702,
+    "matches_above_10_tokens": [
+      [
+        13,
+        " em 14/06/2007. "
+      ]
+    ]
+  },
+  {
+    "id": 711,
+    "matches_above_10_tokens": [
+      [
+        14,
+        " ADMINISTRAÇÃO DA MEDICAÇÃO"
+      ]
+    ]
+  },
+  {
+    "id": 741,
+    "matches_above_10_tokens": [
+      [
+        12,
+        " alta em bom estado geral, com boa tolerância"
+      ]
+    ]
+  }
+]
